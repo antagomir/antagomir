@@ -47,7 +47,6 @@ comprehensive list. Selected examples:
 | [_eurostat_](https://github.com/rOpenGov/eurostat) | [![](https://www.r-pkg.org/badges/version/eurostat)](https://cran.r-project.org/package=eurostat) |[![](https://github.com/rOpenGov/eurostat/workflows/R-CMD-check/badge.svg)](https://github.com/rOpenGov/eurostat/actions?query=workflow:R-CMD-check) |
 | [_sotkanet_](https://github.com/rOpenGov/sotkanet) | [![](https://www.r-pkg.org/badges/version/sotkanet)](https://cran.r-project.org/package=sotkanet) |[![](https://github.com/rOpenGov/sotkanet/workflows/R-CMD-check/badge.svg)](https://github.com/rOpenGov/sotkanet/actions?query=workflow:R-CMD-check) |
 | [_pxweb_](https://github.com/rOpenGov/pxweb) | [![](https://www.r-pkg.org/badges/version/pxweb)](https://cran.r-project.org/package=pxweb) |[![](https://github.com/rOpenGov/pxweb/workflows/R-CMD-check/badge.svg)](https://github.com/rOpenGov/pxweb/actions?query=workflow:R-CMD-check) |
-| [_geofi_](https://github.com/rOpenGov/geofi) | [![](https://www.r-pkg.org/badges/version/geofi)](https://cran.r-project.org/package=geofi) |[![](https://github.com/rOpenGov/geofi/workflows/R-CMD-check/badge.svg)](https://github.com/rOpenGov/geofi/actions?query=workflow:R-CMD-check) |
 | [_hetu_](https://github.com/rOpenGov/hetu) | [![](https://www.r-pkg.org/badges/version/hetu)](https://cran.r-project.org/package=hetu) |[![](https://github.com/rOpenGov/hetu/workflows/R-CMD-check/badge.svg)](https://github.com/rOpenGov/hetu/actions?query=workflow:R-CMD-check) |
 
 
