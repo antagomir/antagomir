@@ -24,7 +24,7 @@
 | Package | BioC-devel | BioC-release |
 |:----------------:|:----------------:|:----------------:|
 
-| [_netresponse_](https://github.com/antagomir/netresponse) | [![](http://bioconductor.org/shields/build/devel/bioc/netresponse.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/netresponse) |[![](http://bioconductor.org/shields/build/release/bioc/netresponse.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/netresponse) |
+| [_netresponse_](https://github.com/antagomir/netresponse) | [![](http://bioconductor.org/shields/build/devel/bioc/netresponse.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/netresponse) |[![](http://bioconductor.org/shields/build/release/bioc/netresponse.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/netresponse) |  
 | [_RPA_](https://github.com/antagomir/RPA) | [![](http://bioconductor.org/shields/build/devel/bioc/RPA.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/RPA) |[![](http://bioconductor.org/shields/build/release/bioc/RPA.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/RPA) |
 
 
