@@ -16,6 +16,7 @@
 | [_netresponse_](https://github.com/antagomir/netresponse) | [![](http://bioconductor.org/shields/build/devel/bioc/netresponse.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/netresponse) |[![](http://bioconductor.org/shields/build/release/bioc/netresponse.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/netresponse) |
 | [_RPA_](https://github.com/antagomir/RPA) | [![](http://bioconductor.org/shields/build/devel/bioc/RPA.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/RPA) |[![](http://bioconductor.org/shields/build/release/bioc/RPA.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/RPA) |
 
+<!--
 
 ### As co-maintainer
 
@@ -24,5 +25,5 @@
 | _mia_ | [![](http://bioconductor.org/shields/build/devel/bioc/mia.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/mia) | [![](http://bioconductor.org/shields/build/release/bioc/mia.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/mia) |
 | _miaViz_ | [![](http://bioconductor.org/shields/build/devel/bioc/miaViz.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/miaViz) | [![](http://bioconductor.org/shields/build/release/bioc/miaViz.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/miaViz) |
 
-
+-->
 
